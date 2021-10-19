@@ -26,7 +26,9 @@
     "three": "^0.110.0"
   },
   "dependencies": {
-    "canvas": "^2.6.0",
-    "gl": "^4.4.0"
+    "canvas": "^2.6.0"
+  },
+  "peerDependencies": {
+    "@fable/gl": "^4.9.3-beta.3"
   }
 }
