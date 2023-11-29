@@ -1,6 +1,6 @@
 {
   "name": "@fable/node-canvas-webgl",
-  "version": "0.2.7-beta.4",
+  "version": "0.2.7-beta.5",
   "description": "Integration of node-canvas and headless-gl.",
   "main": "lib/index.js",
   "repository": {
@@ -26,7 +26,7 @@
     "three": "^0.110.0"
   },
   "dependencies": {
-    "canvas": "^2.6.0"
+    "canvas": "^2.11.2"
   },
   "peerDependencies": {
     "@fable/gl": "^4.10.0-beta.22"
